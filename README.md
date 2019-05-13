@@ -12,7 +12,8 @@ Example to run:  Set your running directory to where you've copied the .ps1 and 
 ```{
     "rubrikServer": "192.168.1.249",
     "rubrikCred": ".\rubrikCred.xml"
-}```
+}
+```
 
 
 *If Rubrik module is not installed, it will be installed as part of this script.* 
