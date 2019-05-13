@@ -9,7 +9,8 @@ Example to run:  Set your running directory to where you've copied the .ps1 and 
 ```.\RBS_Install_Config.ps1 -EnvironmentFile .\Environment\Environment.json -OutFile .\RBS.zip``` 
 
 ## Environment.json
-```{
+```
+{
     "rubrikServer": "192.168.1.249",
     "rubrikCred": ".\rubrikCred.xml"
 }
