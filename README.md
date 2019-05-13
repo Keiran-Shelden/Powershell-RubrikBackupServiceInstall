@@ -23,8 +23,8 @@ Example to run:  Set your running directory to where you've copied the .ps1 and 
 
 
 ### Credit to: 
--Andy Draper for "Volume Filter Driver" Installation API
--[vBrownBag API Zero to Hero Series with Chris Wahl and Rebecca Fitzhugh](https://vbrownbag.com/vbrownbag-technology-series/api-zero-to-hero/)
--[Rubrik Build Community] (https://build.rubrik.com/)
+- Andy Draper for "Volume Filter Driver" Installation API
+- [vBrownBag API Zero to Hero Series with Chris Wahl and Rebecca Fitzhugh](https://vbrownbag.com/vbrownbag-technology-series/api-zero-to-hero/)
+- [Rubrik Build Community] (https://build.rubrik.com/)
 
 (c) Keiran Shelden 2019
