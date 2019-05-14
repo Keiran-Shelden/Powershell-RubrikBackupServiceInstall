@@ -9,12 +9,16 @@ Example to run:  Set your running directory to where you've copied the .ps1 and 
 ```.\RBS_Install_Config.ps1 -EnvironmentFile .\Environment\Environment.json -OutFile .\RBS.zip``` 
 
 ## Environment.json
+
+This is where you set your Rubrik cluster IP. Rubrik credential file will be created during deployment, you will be asked to supply your Rubrik credentials which are stored in a secure xml. 
+
 ```
 {
     "rubrikServer": "192.168.1.249",
     "rubrikCred": ".\rubrikCred.xml"
 }
 ```
+
 
 
 *If Rubrik module is not installed, it will be installed as part of this script.* 
